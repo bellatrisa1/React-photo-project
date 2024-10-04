@@ -1,0 +1,105 @@
+{
+  "categories": [
+    { "name": "Эдинбург" },
+    { "name": "Нью-Йорк" },
+    { "name": "Лондон" },
+    { "name": "Санкт-Петербург" },
+    { "name": "Сеул" },
+    { "name": "Милан" },
+    { "name": "Токио" },
+    { "name": "Прага" },
+    { "name": "Париж" }
+  ],
+  "collections": [
+    {
+      "category": 1,
+      "name": "Эдинбург",
+      "photos": [
+        "https://images.pexels.com/photos/3601199/pexels-photo-3601199.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/27044001/pexels-photo-27044001.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/26774286/pexels-photo-26774286.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/23856829/pexels-photo-23856829.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Нью-Йорк",
+      "photos": [
+        "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/290386/pexels-photo-290386.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/378570/pexels-photo-378570.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Лондон",
+      "photos": [
+        "https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1796715/pexels-photo-1796715.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/427679/pexels-photo-427679.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/813362/pexels-photo-813362.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Санкт-Петербург",
+      "photos": [
+        "https://images.pexels.com/photos/15686201/pexels-photo-15686201.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/13291211/pexels-photo-13291211.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/28614705/pexels-photo-28614705.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/27913921/pexels-photo-27913921.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "category": 5,
+      "name": "Сеул",
+      "photos": [
+        "https://images.pexels.com/photos/373290/pexels-photo-373290.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2848492/pexels-photo-2848492.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/237211/pexels-photo-237211.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/380707/pexels-photo-380707.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "category": 6,
+      "name": "Милан",
+      "photos": [
+        "https://images.pexels.com/photos/37079/milan-pegasus-gallery-statue.jpg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/931015/pexels-photo-931015.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/409127/pexels-photo-409127.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/215516/pexels-photo-215516.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "category": 7,
+      "name": "Токио",
+      "photos": [
+        "https://images.pexels.com/photos/2614818/pexels-photo-2614818.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2339009/pexels-photo-2339009.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1344537/pexels-photo-1344537.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/248195/pexels-photo-248195.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "category": 8,
+      "name": "Прага",
+      "photos": [
+        "https://images.pexels.com/photos/589989/pexels-photo-589989.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/753337/pexels-photo-753337.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/323311/pexels-photo-323311.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2598484/pexels-photo-2598484.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    },
+    {
+      "category": 9,
+      "name": "Париж",
+      "photos": [
+        "https://images.pexels.com/photos/2363/france-landmark-lights-night.jpg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1850619/pexels-photo-1850619.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/161901/paris-sunset-france-monument-161901.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ]
+    }
+  ]
+}
